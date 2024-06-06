@@ -28,7 +28,8 @@ jobs:
           destination-github-username: 'linitfor'
           destination-repository-name: 'toTarget'
           user-email: den@pina.cat
-          commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+          #commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+          commit-message: Nothing more ...
           target-branch: main
       - name: Test get variable exported by push-to-another-repository
         run: echo $DESTINATION_CLONED_DIRECTORY
