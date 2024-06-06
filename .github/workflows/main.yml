@@ -1,7 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
-
+name: Publish
 on:
   schedule:
     - cron: '0 0/3 * * *'
@@ -23,7 +22,12 @@ jobs:
       - name: Install mustache (to update the date)
         run:  apk add ruby && gem install mustache
       - name: creates output
-        run:  sh ./build.sh
+        run: |
+        
+          #sh ./build.sh
+
+          echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')" > Update_time
+        
       - name: Pushes to another repository
         id: push_directory
         uses: cpina/github-action-push-to-another-repository@target-branch
