@@ -1984,13 +1984,11 @@ http://23.224.232.221:81/kk.php?id=cinemax_twn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
 https://xxxooocdn.fr.345888.xyz.cdn.cloudflare.net/histar.php?key=27bcabb98fc1053956ebfa8cfcf80c22&id=cinemax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
-https://z88.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/Cinemax.png" group-title="電影",Cinemax
 https://z88.ubtvfans.com/live/rx3/1518/782d29517c7946020aa8d6052cee6357/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
-http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
+http://50.7.238.114:8278/CINEMAX_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/CINEMAX.png" group-title="電影",CINEMAX
-http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
+http://198.16.100.90:8278/CINEMAX_twn/playlist.m3u8?tid=MA1A5193364851933648&ct=19669&tsum=823f2215523646fe64a539b13ea8ccb4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
 http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MA6A6293129462931294&ct=19669&tsum=daa69594d96038055ae6acf4c2ed28d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/linitfor/epg/main/logo/HBO溫馨家庭.png" group-title="電影",HBO溫馨家庭
